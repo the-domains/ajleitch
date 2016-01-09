@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T17:32:51.466Z'
-dateModified: '2016-01-09T17:32:46.862Z'
+datePublished: '2016-01-09T17:36:21.412Z'
+dateModified: '2016-01-09T17:36:17.627Z'
 title: "THE GREAT DIGITAL FILM FESTIVAL 2016\_"
 author: []
 sourcePath: _posts/2016-01-09-the-great-digital-film-festival-2016.md
