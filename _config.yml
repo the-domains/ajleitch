@@ -1,7 +1,7 @@
 name: ajleitch
 favicon: null
-layout_spectrum: 0.4070811446290463
-typography_spectrum: 0.5770426564849913
+layout_spectrum: 0.31641
+typography_spectrum: 0.60209
 title: 'A.J. Leitch: Photography | Motion | Design'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3951413161121309
-  lightness: 0.30455701937898993
-  saturation: 0.15544212120585144
-  rhythmicContrast: 0.4635040359571576
+    - '#080808'
+    - '#a6a39c'
+    - '#feffff'
+    - '#6c4838'
+    - '#c9394f'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
