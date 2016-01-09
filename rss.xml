@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ajleitch]]></title>
-        <description><![CDATA[ajleitch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A.J. Leitch: Photography | Motion | Design]]></title>
+        <description><![CDATA[A.J. Leitch: Photography | Motion | Design]]></description>
+        <link>https://thegrid.ai/ajleitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 16:56:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 17:19:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ajleitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE GREAT DIGITAL FILM FESTIVAL 2016 ]]></title>
+            <description><![CDATA[<article><h1>THE GREAT DIGITAL FILM FESTIVAL 2016 </h1><p>Just finished work on this year's campaign for Cineplex's totally radical Great Digital Film Festival. This year is geared towards the best Sci-Fi, Fantasy and Cult films. My job is to design and create everything from the web assets to the print finals. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc567968-57fe-4cc3-adbf-3a822dc21de6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ajleitch/the-great-digital-film-festival-2016/index.html</link>
+            <guid isPermaLink="false">746c01b5-a6d4-471b-b5fb-8cab942b645f</guid>
+            <pubDate>Sat, 09 Jan 2016 17:19:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b92647-a8ba-4288-a8e3-5590a5c6a972.jpg">]]></description>
-            <link>undefinedc80938e9-fe09-4bc0-b768-465df5cffc4a/index.html</link>
+            <link>https://thegrid.ai/ajleitch/c80938e9-fe09-4bc0-b768-465df5cffc4a/index.html</link>
             <guid isPermaLink="false">c80938e9-fe09-4bc0-b768-465df5cffc4a</guid>
             <pubDate>Sat, 09 Jan 2016 16:56:11 GMT</pubDate>
         </item>
