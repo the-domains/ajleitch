@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-09T17:19:32.967Z'
-dateModified: '2016-01-09T17:19:24.493Z'
+datePublished: '2016-01-09T17:21:30.440Z'
+dateModified: '2016-01-09T17:21:27.873Z'
 title: "THE GREAT DIGITAL FILM FESTIVAL 2016\_"
 author: []
 sourcePath: _posts/2016-01-09-the-great-digital-film-festival-2016.md
