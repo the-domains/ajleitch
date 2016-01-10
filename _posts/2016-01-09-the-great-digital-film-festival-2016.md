@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-09T17:45:30.334Z'
-dateModified: '2016-01-09T17:39:03.259Z'
+datePublished: '2016-01-10T18:46:47.063Z'
+dateModified: '2016-01-10T18:46:40.087Z'
 title: "THE GREAT DIGITAL FILM FESTIVAL 2016\_"
 author: []
 sourcePath: _posts/2016-01-09-the-great-digital-film-festival-2016.md
@@ -26,4 +26,4 @@ _type: Article
 
 Just finished work on this year's campaign for Cineplex's totally radical Great Digital Film Festival. This year is geared towards the best Sci-Fi, Fantasy and Cult films. My job is to design and create everything from the web assets to the print finals. 
 
-Here is the final poster artwork.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/081f71e3a77171308f0201db5ff8b238132cc5f2.jpg)
+Here is the final poster artwork.  ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8637b164fe0b9dac99968da8427c1e98642ab8.jpg)
